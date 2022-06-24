@@ -1,0 +1,8 @@
+Problem Statement::
+Find the Highest IMDb Rated movie from the first five movies and last five movies in the dataset
+1) You can use matplotlib features like bar plot , hist or any other plotting feature to reach a conclusion
+2) What other conclusions can be made about the dataset given here?
+
+
+
+Dataset - /kaggle/input/imdb-dataset-toprated-films-18982022/IMDb_Data_final.csv
